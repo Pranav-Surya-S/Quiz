@@ -1,0 +1,562 @@
+[
+  {
+    "id": 127,
+    "question": "What is the correct HTML for adding a background color?",
+    "description": null,
+    "answers": {
+      "answer_a": "<body bg=\"yellow\">",
+      "answer_b": "<background>yellow</background>",
+      "answer_c": "<body style=\"background-color:yellow;\">",
+      "answer_d": "<body style bg=\"yellow\">",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "false",
+      "answer_c_correct": "true",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_c",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "HTML" }],
+    "category": "",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 566,
+    "question": "When you need to obtain the ASCII value of a character which of the following function you'll need to use in PHP?",
+    "description": null,
+    "answers": {
+      "answer_a": "chr( );",
+      "answer_b": "val( );",
+      "answer_c": "ord( );",
+      "answer_d": ".asc( );",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "false",
+      "answer_c_correct": "true",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "PHP" }],
+    "category": "Code",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 642,
+    "question": "Which programming language does PHP resemble?",
+    "description": null,
+    "answers": {
+      "answer_a": "C",
+      "answer_b": "Javascript",
+      "answer_c": "Perl",
+      "answer_d": null,
+      "answer_e": "VueJS",
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "true",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "PHP" }],
+    "category": "Code",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 671,
+    "question": "What does the following command do? - $ chmod o-r note",
+    "description": null,
+    "answers": {
+      "answer_a": "Read permission for others is removed",
+      "answer_b": "Read permission for others is added",
+      "answer_c": "Read permission for user is added",
+      "answer_d": "Read permission for user is removed",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "true",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": "User/owner of the is reffered with \u2018o\u2019. \u2018r\u2019 means read permission bit.",
+    "tip": null,
+    "tags": [{ "name": "BASH" }],
+    "category": "Linux",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 394,
+    "question": "To use MySQL on your computer, you'll need",
+    "description": null,
+    "answers": {
+      "answer_a": "Perl, PHP Or Java",
+      "answer_b": "FTP And Telnet",
+      "answer_c": "Some Sort Of Client Program To Access The Databases",
+      "answer_d": "A Browser",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "false",
+      "answer_c_correct": "true",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "MySQL" }],
+    "category": "SQL",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 868,
+    "question": "You can't create multiple containers from the same image",
+    "description": null,
+    "answers": {
+      "answer_a": "True",
+      "answer_b": "False",
+      "answer_c": null,
+      "answer_d": null,
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "true",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": null,
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "Docker" }],
+    "category": "Docker",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 579,
+    "question": "____________ function in PHP Returns a list of response headers sent (or ready to send)",
+    "description": null,
+    "answers": {
+      "answer_a": "header()",
+      "answer_b": "header_send()",
+      "answer_c": "header_sent()",
+      "answer_d": "headers_list()",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "true",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "PHP" }],
+    "category": "Code",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 468,
+    "question": "All elements are identified by their __________ and are marked up using either start tags and end tags or self-closing tags",
+    "description": null,
+    "answers": {
+      "answer_a": "Attribute Names",
+      "answer_b": "Tag Names",
+      "answer_c": "Class Names",
+      "answer_d": "None of the mentioned",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "true",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "HTML" }],
+    "category": "Code",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 154,
+    "question": "In HTML, onblur and onfocus are:",
+    "description": null,
+    "answers": {
+      "answer_a": "Style attributes",
+      "answer_b": "HTML elements",
+      "answer_c": "Event attributes",
+      "answer_d": "Text styles",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "false",
+      "answer_c_correct": "true",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_c",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "HTML" }],
+    "category": "",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 538,
+    "question": "Choose the correct HTML tag for the smallest size heading?",
+    "description": null,
+    "answers": {
+      "answer_a": "<heading>",
+      "answer_b": "<head>",
+      "answer_c": "<h1>",
+      "answer_d": "<h6>",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "true",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "HTML" }],
+    "category": "Code",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 228,
+    "question": "The SQL WHERE clause?",
+    "description": null,
+    "answers": {
+      "answer_a": "Limits the column data that are returned",
+      "answer_b": "Limits the row data are returned",
+      "answer_c": "Both A and B are correct",
+      "answer_d": "Neither A nor B are correct",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "true",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "MySQL" }],
+    "category": "SQL",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 1014,
+    "question": "______ is distributed key-value store that provides a reliable way to store data that needs to be accessed by a distributed system or cluster of machines.",
+    "description": null,
+    "answers": {
+      "answer_a": "A Kubernetes pod",
+      "answer_b": "A Kubernetes service",
+      "answer_c": "A Kubernetes volume",
+      "answer_d": "etcd",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "true",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": null,
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "Kubernetes" }],
+    "category": "DevOps",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 575,
+    "question": "What will be printed if we run the following code? <?php $var = 'false';  if ($var) { echo 'true'; } else { echo 'false'; }",
+    "description": null,
+    "answers": {
+      "answer_a": "True",
+      "answer_b": "False",
+      "answer_c": null,
+      "answer_d": null,
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "true",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "PHP" }],
+    "category": "Code",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 964,
+    "question": "What is a kube-proxy used for?",
+    "description": null,
+    "answers": {
+      "answer_a": "To supplant an authentic webpage in a search engine's index and search page results",
+      "answer_b": "To load-balance traffic that is destined for services to the correct backend pods",
+      "answer_c": null,
+      "answer_d": null,
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "true",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": null,
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "Kubernetes" }],
+    "category": "DevOps",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 674,
+    "question": "Which of the following command can give documentation of a command?",
+    "description": null,
+    "answers": {
+      "answer_a": "man",
+      "answer_b": "info",
+      "answer_c": "doc",
+      "answer_d": "show",
+      "answer_e": "help",
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "true",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "BASH" }, { "name": "Linux" }],
+    "category": "Linux",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 965,
+    "question": "Kubelet is a?",
+    "description": null,
+    "answers": {
+      "answer_a": "A node agent that manages pods and their containers",
+      "answer_b": "A smaller version of Kubernetes",
+      "answer_c": "Software that is used to run containers outside of pods",
+      "answer_d": "A device that collects data in an organized manner for easy access",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "true",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": null,
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "Kubernetes" }],
+    "category": "DevOps",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 66,
+    "question": "In PHP you can use both single quotes ( ' ' ) and double quotes ( \" \" ) for strings:",
+    "description": null,
+    "answers": {
+      "answer_a": "True",
+      "answer_b": "False",
+      "answer_c": null,
+      "answer_d": null,
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "true",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "PHP" }],
+    "category": "",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 1048,
+    "question": "The -b flag in an Ansible ad-hoc command indicates that the command should be executed with sudo privileges.",
+    "description": null,
+    "answers": {
+      "answer_a": "false",
+      "answer_b": "true",
+      "answer_c": null,
+      "answer_d": null,
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "true",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "DevOps" }],
+    "category": "DevOps",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 591,
+    "question": "What is the function to parse a configuration file?",
+    "description": null,
+    "answers": {
+      "answer_a": "parseini_file()",
+      "answer_b": "parse_ini_file()",
+      "answer_c": "parse_ini()",
+      "answer_d": null,
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "true",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "PHP" }],
+    "category": "Code",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 241,
+    "question": "Can you start two MySQL servers at one PC?",
+    "description": null,
+    "answers": {
+      "answer_a": "True",
+      "answer_b": "False",
+      "answer_c": null,
+      "answer_d": null,
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "true",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "MySQL" }],
+    "category": "SQL",
+    "difficulty": "Easy"
+  }
+]
