@@ -52,4 +52,4 @@ All suggestions and questions are **highly encouraged**! You can reach out via:
 - **GitHub Discussions**: Use the comments/discussion feature on the project page.
 - **LinkedIn**: Feel free to message me with any feedback or queries.
 
-Thank you for using the **Flash Card Quiz**! Keep learning and improving your skills!
+Thank you for reading this, wish you all the best.
